@@ -7,7 +7,7 @@ Elastic中文社区技术沙龙【深圳站】
 
 主办方： Elastic中文社区
 
-协办方： vivo移动互联网中心
+协办方： vivo移动互联网
 
 【分享主题】
 *  ElasticStack V5 新特性与变化 By 曾勇@elastic
